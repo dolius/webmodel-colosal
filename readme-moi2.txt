@@ -1,1 +1,1 @@
-This is the main page for MOI
+This file adds new rules to the project
